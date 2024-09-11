@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169406833551",
+    "project_id": "apple-notes-68",
+    "storage_bucket": "apple-notes-68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169406833551:android:7ac39b396764331ef261fa",
+        "android_client_info": {
+          "package_name": "com.example.applenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKK88qDjzkEKESU-GnWF4jjqZ57jGlnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
